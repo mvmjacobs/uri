@@ -10,10 +10,11 @@
 > Esta divisão ajuda os usuários a focar em temas específicos
 > Todos os problemas estão disponíveis em Português e Inglês.
 
+> *fonte: [URI Online Judge]*
+
 #### Licença
 
-Todos os códigos disponibilizados neste repositório estão sob a licença *[Creative Commons (CC BY-NC 4.0)]*  
-*URI Online Judge* is available under the [MIT] license.
+Todos os códigos disponibilizados neste repositório estão sob a licença *[Creative Commons (CC BY-NC 4.0)]* 
 
 ---
 
@@ -21,6 +22,5 @@ Todos os códigos disponibilizados neste repositório estão sob a licença *[Cr
 
 [URI Online Judge]: https://www.urionlinejudge.com.br/
 [Creative Commons (CC BY-NC 4.0)]: https://creativecommons.org/licenses/by-nc/4.0/
-[MIT]: https://opensource.org/licenses/mit-license.php
 [Marcos Vinicius Jacobs]: https://www.linkedin.com/in/mvmjacobs
 [@mvmjacobs]: https://www.twitter.com/mvmjacobs
