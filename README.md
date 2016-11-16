@@ -14,13 +14,13 @@
 
 #### Licença
 
-Todos os códigos disponibilizados neste repositório estão sob a licença *[Creative Commons (CC BY 4.0)]* 
+Todos os códigos disponibilizados neste repositório estão sob a licença *[MIT]* 
 
 ---
 
 *por [Marcos Vinicius Jacobs] / [@mvmjacobs]*
 
 [URI Online Judge]: https://www.urionlinejudge.com.br/
-[Creative Commons (CC BY 4.0)]: https://creativecommons.org/licenses/by/4.0/
+[MIT]: https://opensource.org/licenses/MIT
 [Marcos Vinicius Jacobs]: https://www.linkedin.com/in/mvmjacobs
 [@mvmjacobs]: https://www.twitter.com/mvmjacobs
